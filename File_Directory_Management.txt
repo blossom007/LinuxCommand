@@ -1,0 +1,10 @@
+pwd: Show current working directory
+ls: List files in a directory
+cd: Change directory
+mkdir: Create a new directory
+rmdir: Remove an empty directory
+rm: Delete files/directories
+cp: Copy files/directories
+mv: Move/Rename files or directories
+find: Search for specific files
+locate: Find files quickly

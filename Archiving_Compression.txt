@@ -1,0 +1,6 @@
+tar -cvf: Create a tar archive
+tar -xvf: Extract a tar archive
+gzip: Compress a file
+gunzip: Decompress a giz file
+zip: Create a ZIP archive
+unzip: Extract a ZIP file

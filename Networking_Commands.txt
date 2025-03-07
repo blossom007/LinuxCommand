@@ -1,0 +1,8 @@
+ifconfig: Show network interface details
+ip a: Show IP addresses (alternative to 'ifconfig')
+ping: Check network connectivity
+traceroute: Show the route of packets to a host
+wget: Download a file from a URL
+curl: Make a web request
+netstat: Show network connections and ports
+ss: Check open ports

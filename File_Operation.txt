@@ -1,9 +1,9 @@
 cat: View file contents
 tac: View file contents in reverse order
 less: View file contents page by page
-more: Similar to ''[Dless'[, view file page by page
-head: Display the first 10 lines of afile
-tail: Display the last 10 lines os[A[C[C[C [B[Afile[B[D[D[D[D[D[D[D[D[D[f a file
-echo: Output text or Save to a file
+more: Similar to less, view file page by page
+head: Display the first 10 lines of a file
+tail: Display the last 10 line of a file
+echo: Output text or save to a file
 touch: Create an empty file
 stat: Display detailed file information

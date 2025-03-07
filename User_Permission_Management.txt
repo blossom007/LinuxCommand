@@ -1,9 +1,9 @@
-whoami: Show current user
-id: Display user ID ()[DUID)adduser: Add a new user
+whoami: Show current userid: Display user ID (UID)
+adduser: Add a new user
 deluser: Delete a user
 passwd: Change user password
 chown: Change file ownership
 chmod: Change file permissions
-groups: Show groups the user belong to
+groups: Show groups the user belongs to 
 su: Switch to another user
 sudo: Run a command as administrator

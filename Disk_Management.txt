@@ -1,0 +1,5 @@
+df -h: Show disk usage
+du -sh: Show directory size
+mount: Mount a file system
+umount: Unmount a file system
+fsck: Check and repair file system errors

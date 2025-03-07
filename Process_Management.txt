@@ -1,0 +1,7 @@
+ps: Show running processes
+top: Real-time system monitoring
+htop: A better alternative to 'top' (needs installation)
+kill: Terminate a specific process
+pkill: Kill a process by name
+nice: Set process priority
+renice: Change priority of a running process

@@ -1,0 +1,5 @@
+nmap: Scan network ports
+netcat (nc): Test TCP/UDP connections
+tcpdump: Capture network packets
+john: Password cracking tool
+hydra: Brute force login attacks
